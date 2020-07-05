@@ -1,0 +1,56 @@
+/*#84C823 this is the hash value, hsl(56,169,111),rgb(132,200,35)*/
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: white;
+    font-size: 50px;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #3f5c47;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    width:175px;
+  }
+  
+  .topnav a:hover {
+    background-color: #84C823;    
+    border-radius:50px;
+    
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  .konda{
+      font-family:'Indie Flower';
+      margin-left:50px;
+  }
+  .right{
+      float:right;
+      margin:50px;
+      margin-left:10px;
+      padding:60px;
+  }
+  .konda-icon{
+      width:50px;
+  }
+  .home-image{
+    float:left;
+    margin:50px;
+    margin-top:0px;
+    border-radius: 30px;
+    box-shadow:5px 10px 20px rgba(0,0,0,0.5);
+  }
+  .home-side {
+    border: 3px solid #fff;
+    padding: 20px;
+}

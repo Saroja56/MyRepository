@@ -1,0 +1,63 @@
+h3{
+	color:#1C3142;
+	text-align:center;
+	font-size:25px;
+
+	
+}	
+form{
+	background-color:#84C823;
+	font-size:15px;
+	width:400px;
+	padding:50px;
+	margin:auto;
+	
+}
+
+input[type=text],input[type=password],input[type=phone],input[type=email],select{
+	border:0.2px solid #C6E2F7;
+	border-radius: 4px;
+    color: #999;
+	height:30px;    
+	cursor: pointer;
+    width:390px;
+    outline:none;	
+}
+
+input:focus,select:focus,textarea:focus {
+  border: 1px solid #555;
+  outline:none;
+}
+
+#radio1{
+	color: #404040;
+}
+
+option{
+	color:	#404040;
+}
+	
+textarea{
+	border:0.2px solid #C6E2F7;
+	border-radius: 4px;
+	width:390px;	
+}
+
+input[type=submit]{
+  background-color: #516371;
+  border: none;
+  color: white;
+  border-radius:20px;
+  padding: 15 40px;
+  margin-left: 120;
+  cursor: pointer;
+}
+
+button{
+	background-color:#3CBC8D;
+	padding:10px;
+	margin-left:100;
+}
+button:focus{
+	outline:none;
+}
